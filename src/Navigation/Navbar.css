@@ -1,0 +1,21 @@
+nav {
+    background-color: purple;
+    color: white;
+}
+li {
+    list-style: none;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    
+}
+.navbar{
+    padding-right:59px;
+}
+ul{
+    display: flex;
+    gap: 25px;
+    justify-content: left;
+}
